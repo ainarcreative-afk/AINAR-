@@ -1,0 +1,6 @@
+{
+  "name": "AINAR CREATIVE - Online Creative & Advertising Agency",
+  "description": "وكالة اعلانية اونلاين متخصصة في تصميم وطباعة الأقمصة، بطاقات العمل، واجهات المحلات، بوستات السوشيال ميديا، تصميم المواقع وطباعة الكؤوس.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
